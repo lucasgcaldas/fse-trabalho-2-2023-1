@@ -1,0 +1,5 @@
+venv
+communication/__pycache__
+connection/__pycache__
+model/__pycache__
+util/__pycache__
